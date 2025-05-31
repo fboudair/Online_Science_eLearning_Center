@@ -8,7 +8,7 @@ This project is part of my final web development capstone at Trios College.
 ## Project Screenshot
 
 ## Demo
-[![Watch the video](https://youtube.com/shorts/2cnoek70hvc?si=d_FTf3qHKtiE58pE)](https:youtube.com/shorts/2cnoek70hvc)
+[![Watch the video](https://youtube.com/shorts/2cnoek70hvc?si=d_FTf3qHKtiE58pE)](https:youtube.com/shorts/2cnoek70)
 
 ## ✨ Key Features
 - 📚 Science courses: Physics, Chemistry, Environmental Science
