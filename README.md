@@ -22,6 +22,10 @@
 
 -----
 
+## 🎥 Demo Video
+[![Watch the demo](assets/demo-thumbnail.png)](https://youtu.be/xTPQOyFVuqA=YOUR_VIDEO_ID)
+
+
 ## 🌐 Core Features
 - 📘 **Modular Lessons**: Physics, Biology, Chemistry, Earth Science, Math  
 - 📝 **Interactive Quizzes & Real-Time Feedback**  
