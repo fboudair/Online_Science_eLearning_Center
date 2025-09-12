@@ -43,10 +43,9 @@
 -----
 
 ## 🛠️ Technology Stack
-- **Frontend:** HTML5, CSS3, JavaScript  
+- **Frontend:** HTML, CSS, PHP,
 - **LMS Integration:** SCORM-compliant  
 - **Backend:** Firebase + Node.js  
-- **AI Support:** GPT-based NLP
 
 ------
 
